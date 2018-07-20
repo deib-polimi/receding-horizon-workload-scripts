@@ -1,0 +1,16 @@
+timeSeries = readtable('timeseries_5min_12d.csv', 'Delimiter', ' ');
+figure;
+plot(timeSeries.step, timeSeries.reqs);
+rows = timeSeries.step >= 2400 & timeSeries.step < 2976;
+window = timeSeries(rows, :);
+figure;
+plot(window.step, window.reqs);
+x = window.step;
+v = window.reqs;
+xq = min(window.step):12:max(window.step);
+vq = interp1(x,v,xq);
+figure;
+plot(1:length(vq),vq);
+scaledValues = scaledata(vq,0.05,0.8);
+figure;
+plot(1:length(vq),scaledValues);
