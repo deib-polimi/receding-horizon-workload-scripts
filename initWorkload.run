@@ -1,0 +1,6 @@
+
+for {k in K}{
+	for {j in 1..(Tday+Ton+1)}{
+		let Lambda[k,j]:= ((150-j)/8)*sin((j/8)-2)+19; #fare l'assegnamento manuale dei valori per la prova del modello
+		}
+	}

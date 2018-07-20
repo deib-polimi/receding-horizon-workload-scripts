@@ -1,0 +1,4531 @@
+# timeseries-10min
+let Lambda[1,1]:= 
+340
+;
+let Lambda[1,2]:= 
+351
+;
+let Lambda[1,3]:= 
+368
+;
+let Lambda[1,4]:= 
+363
+;
+let Lambda[1,5]:= 
+357
+;
+let Lambda[1,6]:= 
+365
+;
+let Lambda[1,7]:= 
+300
+;
+let Lambda[1,8]:= 
+303
+;
+let Lambda[1,9]:= 
+294
+;
+let Lambda[1,10]:= 
+302
+;
+let Lambda[1,11]:= 
+306
+;
+let Lambda[1,12]:= 
+300
+;
+let Lambda[1,13]:= 
+264
+;
+let Lambda[1,14]:= 
+265
+;
+let Lambda[1,15]:= 
+269
+;
+let Lambda[1,16]:= 
+270
+;
+let Lambda[1,17]:= 
+275
+;
+let Lambda[1,18]:= 
+264
+;
+let Lambda[1,19]:= 
+243
+;
+let Lambda[1,20]:= 
+265
+;
+let Lambda[1,21]:= 
+269
+;
+let Lambda[1,22]:= 
+282
+;
+let Lambda[1,23]:= 
+268
+;
+let Lambda[1,24]:= 
+267
+;
+let Lambda[1,25]:= 
+252
+;
+let Lambda[1,26]:= 
+249
+;
+let Lambda[1,27]:= 
+235
+;
+let Lambda[1,28]:= 
+251
+;
+let Lambda[1,29]:= 
+251
+;
+let Lambda[1,30]:= 
+239
+;
+let Lambda[1,31]:= 
+198
+;
+let Lambda[1,32]:= 
+215
+;
+let Lambda[1,33]:= 
+200
+;
+let Lambda[1,34]:= 
+211
+;
+let Lambda[1,35]:= 
+206
+;
+let Lambda[1,36]:= 
+225
+;
+let Lambda[1,37]:= 
+225
+;
+let Lambda[1,38]:= 
+219
+;
+let Lambda[1,39]:= 
+223
+;
+let Lambda[1,40]:= 
+236
+;
+let Lambda[1,41]:= 
+216
+;
+let Lambda[1,42]:= 
+214
+;
+let Lambda[1,43]:= 
+231
+;
+let Lambda[1,44]:= 
+236
+;
+let Lambda[1,45]:= 
+230
+;
+let Lambda[1,46]:= 
+227
+;
+let Lambda[1,47]:= 
+224
+;
+let Lambda[1,48]:= 
+223
+;
+let Lambda[1,49]:= 
+252
+;
+let Lambda[1,50]:= 
+243
+;
+let Lambda[1,51]:= 
+242
+;
+let Lambda[1,52]:= 
+232
+;
+let Lambda[1,53]:= 
+252
+;
+let Lambda[1,54]:= 
+253
+;
+let Lambda[1,55]:= 
+299
+;
+let Lambda[1,56]:= 
+294
+;
+let Lambda[1,57]:= 
+290
+;
+let Lambda[1,58]:= 
+287
+;
+let Lambda[1,59]:= 
+293
+;
+let Lambda[1,60]:= 
+286
+;
+let Lambda[1,61]:= 
+286
+;
+let Lambda[1,62]:= 
+299
+;
+let Lambda[1,63]:= 
+300
+;
+let Lambda[1,64]:= 
+308
+;
+let Lambda[1,65]:= 
+310
+;
+let Lambda[1,66]:= 
+313
+;
+let Lambda[1,67]:= 
+354
+;
+let Lambda[1,68]:= 
+339
+;
+let Lambda[1,69]:= 
+346
+;
+let Lambda[1,70]:= 
+359
+;
+let Lambda[1,71]:= 
+359
+;
+let Lambda[1,72]:= 
+353
+;
+let Lambda[1,73]:= 
+357
+;
+let Lambda[1,74]:= 
+348
+;
+let Lambda[1,75]:= 
+351
+;
+let Lambda[1,76]:= 
+362
+;
+let Lambda[1,77]:= 
+357
+;
+let Lambda[1,78]:= 
+363
+;
+let Lambda[1,79]:= 
+386
+;
+let Lambda[1,80]:= 
+387
+;
+let Lambda[1,81]:= 
+385
+;
+let Lambda[1,82]:= 
+374
+;
+let Lambda[1,83]:= 
+380
+;
+let Lambda[1,84]:= 
+376
+;
+let Lambda[1,85]:= 
+409
+;
+let Lambda[1,86]:= 
+412
+;
+let Lambda[1,87]:= 
+408
+;
+let Lambda[1,88]:= 
+406
+;
+let Lambda[1,89]:= 
+407
+;
+let Lambda[1,90]:= 
+396
+;
+let Lambda[1,91]:= 
+424
+;
+let Lambda[1,92]:= 
+451
+;
+let Lambda[1,93]:= 
+442
+;
+let Lambda[1,94]:= 
+455
+;
+let Lambda[1,95]:= 
+464
+;
+let Lambda[1,96]:= 
+442
+;
+let Lambda[1,97]:= 
+553
+;
+let Lambda[1,98]:= 
+541
+;
+let Lambda[1,99]:= 
+562
+;
+let Lambda[1,100]:= 
+568
+;
+let Lambda[1,101]:= 
+557
+;
+let Lambda[1,102]:= 
+561
+;
+let Lambda[1,103]:= 
+504
+;
+let Lambda[1,104]:= 
+503
+;
+let Lambda[1,105]:= 
+496
+;
+let Lambda[1,106]:= 
+496
+;
+let Lambda[1,107]:= 
+500
+;
+let Lambda[1,108]:= 
+505
+;
+let Lambda[1,109]:= 
+459
+;
+let Lambda[1,110]:= 
+459
+;
+let Lambda[1,111]:= 
+442
+;
+let Lambda[1,112]:= 
+444
+;
+let Lambda[1,113]:= 
+444
+;
+let Lambda[1,114]:= 
+438
+;
+let Lambda[1,115]:= 
+471
+;
+let Lambda[1,116]:= 
+470
+;
+let Lambda[1,117]:= 
+481
+;
+let Lambda[1,118]:= 
+466
+;
+let Lambda[1,119]:= 
+460
+;
+let Lambda[1,120]:= 
+478
+;
+let Lambda[1,121]:= 
+468
+;
+let Lambda[1,122]:= 
+470
+;
+let Lambda[1,123]:= 
+462
+;
+let Lambda[1,124]:= 
+473
+;
+let Lambda[1,125]:= 
+471
+;
+let Lambda[1,126]:= 
+484
+;
+let Lambda[1,127]:= 
+515
+;
+let Lambda[1,128]:= 
+518
+;
+let Lambda[1,129]:= 
+501
+;
+let Lambda[1,130]:= 
+502
+;
+let Lambda[1,131]:= 
+503
+;
+let Lambda[1,132]:= 
+514
+;
+let Lambda[1,133]:= 
+462
+;
+let Lambda[1,134]:= 
+469
+;
+let Lambda[1,135]:= 
+457
+;
+let Lambda[1,136]:= 
+471
+;
+let Lambda[1,137]:= 
+455
+;
+let Lambda[1,138]:= 
+470
+;
+let Lambda[1,139]:= 
+426
+;
+let Lambda[1,140]:= 
+416
+;
+let Lambda[1,141]:= 
+420
+;
+let Lambda[1,142]:= 
+416
+;
+let Lambda[1,143]:= 
+432
+;
+let Lambda[1,144]:= 
+429
+;
+let Lambda[1,145]:= 
+372
+;
+let Lambda[1,146]:= 
+377
+;
+let Lambda[1,147]:= 
+372
+;
+let Lambda[1,148]:= 
+368
+;
+let Lambda[1,149]:= 
+382
+;
+let Lambda[1,150]:= 
+376
+;
+let Lambda[1,151]:= 
+305
+;
+let Lambda[2,1]:= 
+304
+;
+let Lambda[2,2]:= 
+301
+;
+let Lambda[2,3]:= 
+302
+;
+let Lambda[2,4]:= 
+302
+;
+let Lambda[2,5]:= 
+293
+;
+let Lambda[2,6]:= 
+264
+;
+let Lambda[2,7]:= 
+268
+;
+let Lambda[2,8]:= 
+265
+;
+let Lambda[2,9]:= 
+275
+;
+let Lambda[2,10]:= 
+254
+;
+let Lambda[2,11]:= 
+267
+;
+let Lambda[2,12]:= 
+281
+;
+let Lambda[2,13]:= 
+289
+;
+let Lambda[2,14]:= 
+271
+;
+let Lambda[2,15]:= 
+277
+;
+let Lambda[2,16]:= 
+274
+;
+let Lambda[2,17]:= 
+270
+;
+let Lambda[2,18]:= 
+254
+;
+let Lambda[2,19]:= 
+245
+;
+let Lambda[2,20]:= 
+265
+;
+let Lambda[2,21]:= 
+269
+;
+let Lambda[2,22]:= 
+255
+;
+let Lambda[2,23]:= 
+272
+;
+let Lambda[2,24]:= 
+263
+;
+let Lambda[2,25]:= 
+257
+;
+let Lambda[2,26]:= 
+256
+;
+let Lambda[2,27]:= 
+259
+;
+let Lambda[2,28]:= 
+263
+;
+let Lambda[2,29]:= 
+259
+;
+let Lambda[2,30]:= 
+216
+;
+let Lambda[2,31]:= 
+217
+;
+let Lambda[2,32]:= 
+202
+;
+let Lambda[2,33]:= 
+193
+;
+let Lambda[2,34]:= 
+212
+;
+let Lambda[2,35]:= 
+216
+;
+let Lambda[2,36]:= 
+198
+;
+let Lambda[2,37]:= 
+211
+;
+let Lambda[2,38]:= 
+190
+;
+let Lambda[2,39]:= 
+199
+;
+let Lambda[2,40]:= 
+190
+;
+let Lambda[2,41]:= 
+192
+;
+let Lambda[2,42]:= 
+248
+;
+let Lambda[2,43]:= 
+236
+;
+let Lambda[2,44]:= 
+246
+;
+let Lambda[2,45]:= 
+239
+;
+let Lambda[2,46]:= 
+248
+;
+let Lambda[2,47]:= 
+243
+;
+let Lambda[2,48]:= 
+268
+;
+let Lambda[2,49]:= 
+287
+;
+let Lambda[2,50]:= 
+301
+;
+let Lambda[2,51]:= 
+285
+;
+let Lambda[2,52]:= 
+298
+;
+let Lambda[2,53]:= 
+294
+;
+let Lambda[2,54]:= 
+392
+;
+let Lambda[2,55]:= 
+384
+;
+let Lambda[2,56]:= 
+378
+;
+let Lambda[2,57]:= 
+370
+;
+let Lambda[2,58]:= 
+375
+;
+let Lambda[2,59]:= 
+382
+;
+let Lambda[2,60]:= 
+348
+;
+let Lambda[2,61]:= 
+349
+;
+let Lambda[2,62]:= 
+328
+;
+let Lambda[2,63]:= 
+324
+;
+let Lambda[2,64]:= 
+319
+;
+let Lambda[2,65]:= 
+333
+;
+let Lambda[2,66]:= 
+367
+;
+let Lambda[2,67]:= 
+378
+;
+let Lambda[2,68]:= 
+373
+;
+let Lambda[2,69]:= 
+369
+;
+let Lambda[2,70]:= 
+380
+;
+let Lambda[2,71]:= 
+374
+;
+let Lambda[2,72]:= 
+353
+;
+let Lambda[2,73]:= 
+366
+;
+let Lambda[2,74]:= 
+360
+;
+let Lambda[2,75]:= 
+363
+;
+let Lambda[2,76]:= 
+358
+;
+let Lambda[2,77]:= 
+361
+;
+let Lambda[2,78]:= 
+379
+;
+let Lambda[2,79]:= 
+383
+;
+let Lambda[2,80]:= 
+408
+;
+let Lambda[2,81]:= 
+392
+;
+let Lambda[2,82]:= 
+396
+;
+let Lambda[2,83]:= 
+402
+;
+let Lambda[2,84]:= 
+460
+;
+let Lambda[2,85]:= 
+451
+;
+let Lambda[2,86]:= 
+446
+;
+let Lambda[2,87]:= 
+438
+;
+let Lambda[2,88]:= 
+456
+;
+let Lambda[2,89]:= 
+456
+;
+let Lambda[2,90]:= 
+442
+;
+let Lambda[2,91]:= 
+427
+;
+let Lambda[2,92]:= 
+440
+;
+let Lambda[2,93]:= 
+448
+;
+let Lambda[2,94]:= 
+439
+;
+let Lambda[2,95]:= 
+447
+;
+let Lambda[2,96]:= 
+484
+;
+let Lambda[2,97]:= 
+473
+;
+let Lambda[2,98]:= 
+484
+;
+let Lambda[2,99]:= 
+471
+;
+let Lambda[2,100]:= 
+478
+;
+let Lambda[2,101]:= 
+471
+;
+let Lambda[2,102]:= 
+471
+;
+let Lambda[2,103]:= 
+473
+;
+let Lambda[2,104]:= 
+470
+;
+let Lambda[2,105]:= 
+469
+;
+let Lambda[2,106]:= 
+476
+;
+let Lambda[2,107]:= 
+476
+;
+let Lambda[2,108]:= 
+635
+;
+let Lambda[2,109]:= 
+619
+;
+let Lambda[2,110]:= 
+617
+;
+let Lambda[2,111]:= 
+618
+;
+let Lambda[2,112]:= 
+612
+;
+let Lambda[2,113]:= 
+623
+;
+let Lambda[2,114]:= 
+542
+;
+let Lambda[2,115]:= 
+538
+;
+let Lambda[2,116]:= 
+554
+;
+let Lambda[2,117]:= 
+552
+;
+let Lambda[2,118]:= 
+558
+;
+let Lambda[2,119]:= 
+550
+;
+let Lambda[2,120]:= 
+547
+;
+let Lambda[2,121]:= 
+550
+;
+let Lambda[2,122]:= 
+559
+;
+let Lambda[2,123]:= 
+562
+;
+let Lambda[2,124]:= 
+550
+;
+let Lambda[2,125]:= 
+550
+;
+let Lambda[2,126]:= 
+489
+;
+let Lambda[2,127]:= 
+491
+;
+let Lambda[2,128]:= 
+489
+;
+let Lambda[2,129]:= 
+491
+;
+let Lambda[2,130]:= 
+497
+;
+let Lambda[2,131]:= 
+506
+;
+let Lambda[2,132]:= 
+453
+;
+let Lambda[2,133]:= 
+461
+;
+let Lambda[2,134]:= 
+463
+;
+let Lambda[2,135]:= 
+470
+;
+let Lambda[2,136]:= 
+460
+;
+let Lambda[2,137]:= 
+458
+;
+let Lambda[2,138]:= 
+353
+;
+let Lambda[2,139]:= 
+360
+;
+let Lambda[2,140]:= 
+361
+;
+let Lambda[2,141]:= 
+370
+;
+let Lambda[2,142]:= 
+355
+;
+let Lambda[2,143]:= 
+347
+;
+let Lambda[2,144]:= 
+340
+;
+let Lambda[2,145]:= 
+323
+;
+let Lambda[2,146]:= 
+318
+;
+let Lambda[2,147]:= 
+319
+;
+let Lambda[2,148]:= 
+328
+;
+let Lambda[2,149]:= 
+323
+;
+let Lambda[2,150]:= 
+286
+;
+let Lambda[2,151]:= 
+272
+;
+let Lambda[3,1]:= 
+268
+;
+let Lambda[3,2]:= 
+272
+;
+let Lambda[3,3]:= 
+280
+;
+let Lambda[3,4]:= 
+262
+;
+let Lambda[3,5]:= 
+245
+;
+let Lambda[3,6]:= 
+268
+;
+let Lambda[3,7]:= 
+263
+;
+let Lambda[3,8]:= 
+286
+;
+let Lambda[3,9]:= 
+285
+;
+let Lambda[3,10]:= 
+274
+;
+let Lambda[3,11]:= 
+241
+;
+let Lambda[3,12]:= 
+251
+;
+let Lambda[3,13]:= 
+249
+;
+let Lambda[3,14]:= 
+271
+;
+let Lambda[3,15]:= 
+258
+;
+let Lambda[3,16]:= 
+258
+;
+let Lambda[3,17]:= 
+267
+;
+let Lambda[3,18]:= 
+265
+;
+let Lambda[3,19]:= 
+251
+;
+let Lambda[3,20]:= 
+254
+;
+let Lambda[3,21]:= 
+252
+;
+let Lambda[3,22]:= 
+239
+;
+let Lambda[3,23]:= 
+233
+;
+let Lambda[3,24]:= 
+229
+;
+let Lambda[3,25]:= 
+229
+;
+let Lambda[3,26]:= 
+216
+;
+let Lambda[3,27]:= 
+212
+;
+let Lambda[3,28]:= 
+223
+;
+let Lambda[3,29]:= 
+237
+;
+let Lambda[3,30]:= 
+256
+;
+let Lambda[3,31]:= 
+260
+;
+let Lambda[3,32]:= 
+238
+;
+let Lambda[3,33]:= 
+230
+;
+let Lambda[3,34]:= 
+240
+;
+let Lambda[3,35]:= 
+285
+;
+let Lambda[3,36]:= 
+277
+;
+let Lambda[3,37]:= 
+286
+;
+let Lambda[3,38]:= 
+286
+;
+let Lambda[3,39]:= 
+301
+;
+let Lambda[3,40]:= 
+287
+;
+let Lambda[3,41]:= 
+313
+;
+let Lambda[3,42]:= 
+312
+;
+let Lambda[3,43]:= 
+314
+;
+let Lambda[3,44]:= 
+317
+;
+let Lambda[3,45]:= 
+311
+;
+let Lambda[3,46]:= 
+318
+;
+let Lambda[3,47]:= 
+336
+;
+let Lambda[3,48]:= 
+342
+;
+let Lambda[3,49]:= 
+338
+;
+let Lambda[3,50]:= 
+347
+;
+let Lambda[3,51]:= 
+339
+;
+let Lambda[3,52]:= 
+355
+;
+let Lambda[3,53]:= 
+395
+;
+let Lambda[3,54]:= 
+387
+;
+let Lambda[3,55]:= 
+372
+;
+let Lambda[3,56]:= 
+363
+;
+let Lambda[3,57]:= 
+371
+;
+let Lambda[3,58]:= 
+371
+;
+let Lambda[3,59]:= 
+361
+;
+let Lambda[3,60]:= 
+360
+;
+let Lambda[3,61]:= 
+368
+;
+let Lambda[3,62]:= 
+376
+;
+let Lambda[3,63]:= 
+368
+;
+let Lambda[3,64]:= 
+359
+;
+let Lambda[3,65]:= 
+351
+;
+let Lambda[3,66]:= 
+352
+;
+let Lambda[3,67]:= 
+351
+;
+let Lambda[3,68]:= 
+354
+;
+let Lambda[3,69]:= 
+358
+;
+let Lambda[3,70]:= 
+369
+;
+let Lambda[3,71]:= 
+432
+;
+let Lambda[3,72]:= 
+436
+;
+let Lambda[3,73]:= 
+429
+;
+let Lambda[3,74]:= 
+437
+;
+let Lambda[3,75]:= 
+428
+;
+let Lambda[3,76]:= 
+417
+;
+let Lambda[3,77]:= 
+423
+;
+let Lambda[3,78]:= 
+431
+;
+let Lambda[3,79]:= 
+430
+;
+let Lambda[3,80]:= 
+422
+;
+let Lambda[3,81]:= 
+424
+;
+let Lambda[3,82]:= 
+423
+;
+let Lambda[3,83]:= 
+467
+;
+let Lambda[3,84]:= 
+466
+;
+let Lambda[3,85]:= 
+456
+;
+let Lambda[3,86]:= 
+458
+;
+let Lambda[3,87]:= 
+478
+;
+let Lambda[3,88]:= 
+467
+;
+let Lambda[3,89]:= 
+454
+;
+let Lambda[3,90]:= 
+449
+;
+let Lambda[3,91]:= 
+451
+;
+let Lambda[3,92]:= 
+467
+;
+let Lambda[3,93]:= 
+476
+;
+let Lambda[3,94]:= 
+467
+;
+let Lambda[3,95]:= 
+446
+;
+let Lambda[3,96]:= 
+440
+;
+let Lambda[3,97]:= 
+439
+;
+let Lambda[3,98]:= 
+454
+;
+let Lambda[3,99]:= 
+445
+;
+let Lambda[3,100]:= 
+455
+;
+let Lambda[3,101]:= 
+496
+;
+let Lambda[3,102]:= 
+498
+;
+let Lambda[3,103]:= 
+500
+;
+let Lambda[3,104]:= 
+481
+;
+let Lambda[3,105]:= 
+489
+;
+let Lambda[3,106]:= 
+506
+;
+let Lambda[3,107]:= 
+446
+;
+let Lambda[3,108]:= 
+456
+;
+let Lambda[3,109]:= 
+466
+;
+let Lambda[3,110]:= 
+465
+;
+let Lambda[3,111]:= 
+476
+;
+let Lambda[3,112]:= 
+464
+;
+let Lambda[3,113]:= 
+445
+;
+let Lambda[3,114]:= 
+455
+;
+let Lambda[3,115]:= 
+458
+;
+let Lambda[3,116]:= 
+448
+;
+let Lambda[3,117]:= 
+451
+;
+let Lambda[3,118]:= 
+445
+;
+let Lambda[3,119]:= 
+438
+;
+let Lambda[3,120]:= 
+432
+;
+let Lambda[3,121]:= 
+446
+;
+let Lambda[3,122]:= 
+438
+;
+let Lambda[3,123]:= 
+434
+;
+let Lambda[3,124]:= 
+430
+;
+let Lambda[3,125]:= 
+386
+;
+let Lambda[3,126]:= 
+396
+;
+let Lambda[3,127]:= 
+400
+;
+let Lambda[3,128]:= 
+400
+;
+let Lambda[3,129]:= 
+408
+;
+let Lambda[3,130]:= 
+394
+;
+let Lambda[3,131]:= 
+359
+;
+let Lambda[3,132]:= 
+353
+;
+let Lambda[3,133]:= 
+356
+;
+let Lambda[3,134]:= 
+352
+;
+let Lambda[3,135]:= 
+355
+;
+let Lambda[3,136]:= 
+356
+;
+let Lambda[3,137]:= 
+362
+;
+let Lambda[3,138]:= 
+380
+;
+let Lambda[3,139]:= 
+378
+;
+let Lambda[3,140]:= 
+377
+;
+let Lambda[3,141]:= 
+377
+;
+let Lambda[3,142]:= 
+380
+;
+let Lambda[3,143]:= 
+303
+;
+let Lambda[3,144]:= 
+289
+;
+let Lambda[3,145]:= 
+305
+;
+let Lambda[3,146]:= 
+280
+;
+let Lambda[3,147]:= 
+297
+;
+let Lambda[3,148]:= 
+292
+;
+let Lambda[3,149]:= 
+258
+;
+let Lambda[3,150]:= 
+249
+;
+let Lambda[3,151]:= 
+256
+;
+let Lambda[4,1]:= 
+254
+;
+let Lambda[4,2]:= 
+261
+;
+let Lambda[4,3]:= 
+262
+;
+let Lambda[4,4]:= 
+262
+;
+let Lambda[4,5]:= 
+251
+;
+let Lambda[4,6]:= 
+244
+;
+let Lambda[4,7]:= 
+231
+;
+let Lambda[4,8]:= 
+251
+;
+let Lambda[4,9]:= 
+256
+;
+let Lambda[4,10]:= 
+258
+;
+let Lambda[4,11]:= 
+240
+;
+let Lambda[4,12]:= 
+238
+;
+let Lambda[4,13]:= 
+232
+;
+let Lambda[4,14]:= 
+245
+;
+let Lambda[4,15]:= 
+235
+;
+let Lambda[4,16]:= 
+225
+;
+let Lambda[4,17]:= 
+208
+;
+let Lambda[4,18]:= 
+221
+;
+let Lambda[4,19]:= 
+222
+;
+let Lambda[4,20]:= 
+215
+;
+let Lambda[4,21]:= 
+204
+;
+let Lambda[4,22]:= 
+201
+;
+let Lambda[4,23]:= 
+227
+;
+let Lambda[4,24]:= 
+204
+;
+let Lambda[4,25]:= 
+202
+;
+let Lambda[4,26]:= 
+216
+;
+let Lambda[4,27]:= 
+214
+;
+let Lambda[4,28]:= 
+252
+;
+let Lambda[4,29]:= 
+261
+;
+let Lambda[4,30]:= 
+259
+;
+let Lambda[4,31]:= 
+254
+;
+let Lambda[4,32]:= 
+256
+;
+let Lambda[4,33]:= 
+252
+;
+let Lambda[4,34]:= 
+143
+;
+let Lambda[4,35]:= 
+142
+;
+let Lambda[4,36]:= 
+148
+;
+let Lambda[4,37]:= 
+141
+;
+let Lambda[4,38]:= 
+153
+;
+let Lambda[4,39]:= 
+151
+;
+let Lambda[4,40]:= 
+272
+;
+let Lambda[4,41]:= 
+268
+;
+let Lambda[4,42]:= 
+285
+;
+let Lambda[4,43]:= 
+273
+;
+let Lambda[4,44]:= 
+276
+;
+let Lambda[4,45]:= 
+272
+;
+let Lambda[4,46]:= 
+323
+;
+let Lambda[4,47]:= 
+309
+;
+let Lambda[4,48]:= 
+310
+;
+let Lambda[4,49]:= 
+303
+;
+let Lambda[4,50]:= 
+318
+;
+let Lambda[4,51]:= 
+320
+;
+let Lambda[4,52]:= 
+350
+;
+let Lambda[4,53]:= 
+340
+;
+let Lambda[4,54]:= 
+338
+;
+let Lambda[4,55]:= 
+340
+;
+let Lambda[4,56]:= 
+350
+;
+let Lambda[4,57]:= 
+333
+;
+let Lambda[4,58]:= 
+363
+;
+let Lambda[4,59]:= 
+362
+;
+let Lambda[4,60]:= 
+365
+;
+let Lambda[4,61]:= 
+364
+;
+let Lambda[4,62]:= 
+360
+;
+let Lambda[4,63]:= 
+346
+;
+let Lambda[4,64]:= 
+399
+;
+let Lambda[4,65]:= 
+389
+;
+let Lambda[4,66]:= 
+399
+;
+let Lambda[4,67]:= 
+415
+;
+let Lambda[4,68]:= 
+397
+;
+let Lambda[4,69]:= 
+402
+;
+let Lambda[4,70]:= 
+395
+;
+let Lambda[4,71]:= 
+393
+;
+let Lambda[4,72]:= 
+423
+;
+let Lambda[4,73]:= 
+399
+;
+let Lambda[4,74]:= 
+387
+;
+let Lambda[4,75]:= 
+406
+;
+let Lambda[4,76]:= 
+426
+;
+let Lambda[4,77]:= 
+413
+;
+let Lambda[4,78]:= 
+412
+;
+let Lambda[4,79]:= 
+405
+;
+let Lambda[4,80]:= 
+409
+;
+let Lambda[4,81]:= 
+407
+;
+let Lambda[4,82]:= 
+442
+;
+let Lambda[4,83]:= 
+446
+;
+let Lambda[4,84]:= 
+444
+;
+let Lambda[4,85]:= 
+436
+;
+let Lambda[4,86]:= 
+439
+;
+let Lambda[4,87]:= 
+444
+;
+let Lambda[4,88]:= 
+484
+;
+let Lambda[4,89]:= 
+479
+;
+let Lambda[4,90]:= 
+485
+;
+let Lambda[4,91]:= 
+495
+;
+let Lambda[4,92]:= 
+491
+;
+let Lambda[4,93]:= 
+488
+;
+let Lambda[4,94]:= 
+509
+;
+let Lambda[4,95]:= 
+512
+;
+let Lambda[4,96]:= 
+520
+;
+let Lambda[4,97]:= 
+505
+;
+let Lambda[4,98]:= 
+507
+;
+let Lambda[4,99]:= 
+525
+;
+let Lambda[4,100]:= 
+486
+;
+let Lambda[4,101]:= 
+471
+;
+let Lambda[4,102]:= 
+470
+;
+let Lambda[4,103]:= 
+487
+;
+let Lambda[4,104]:= 
+472
+;
+let Lambda[4,105]:= 
+492
+;
+let Lambda[4,106]:= 
+489
+;
+let Lambda[4,107]:= 
+490
+;
+let Lambda[4,108]:= 
+484
+;
+let Lambda[4,109]:= 
+480
+;
+let Lambda[4,110]:= 
+478
+;
+let Lambda[4,111]:= 
+480
+;
+let Lambda[4,112]:= 
+432
+;
+let Lambda[4,113]:= 
+436
+;
+let Lambda[4,114]:= 
+432
+;
+let Lambda[4,115]:= 
+443
+;
+let Lambda[4,116]:= 
+438
+;
+let Lambda[4,117]:= 
+430
+;
+let Lambda[4,118]:= 
+389
+;
+let Lambda[4,119]:= 
+402
+;
+let Lambda[4,120]:= 
+389
+;
+let Lambda[4,121]:= 
+383
+;
+let Lambda[4,122]:= 
+399
+;
+let Lambda[4,123]:= 
+396
+;
+let Lambda[4,124]:= 
+349
+;
+let Lambda[4,125]:= 
+348
+;
+let Lambda[4,126]:= 
+352
+;
+let Lambda[4,127]:= 
+353
+;
+let Lambda[4,128]:= 
+357
+;
+let Lambda[4,129]:= 
+352
+;
+let Lambda[4,130]:= 
+290
+;
+let Lambda[4,131]:= 
+302
+;
+let Lambda[4,132]:= 
+294
+;
+let Lambda[4,133]:= 
+271
+;
+let Lambda[4,134]:= 
+280
+;
+let Lambda[4,135]:= 
+273
+;
+let Lambda[4,136]:= 
+243
+;
+let Lambda[4,137]:= 
+240
+;
+let Lambda[4,138]:= 
+257
+;
+let Lambda[4,139]:= 
+252
+;
+let Lambda[4,140]:= 
+250
+;
+let Lambda[4,141]:= 
+254
+;
+let Lambda[4,142]:= 
+254
+;
+let Lambda[4,143]:= 
+252
+;
+let Lambda[4,144]:= 
+258
+;
+let Lambda[4,145]:= 
+245
+;
+let Lambda[4,146]:= 
+248
+;
+let Lambda[4,147]:= 
+244
+;
+let Lambda[4,148]:= 
+264
+;
+let Lambda[4,149]:= 
+279
+;
+let Lambda[4,150]:= 
+270
+;
+let Lambda[4,151]:= 
+258
+;
+let Lambda[5,1]:= 
+265
+;
+let Lambda[5,2]:= 
+265
+;
+let Lambda[5,3]:= 
+227
+;
+let Lambda[5,4]:= 
+237
+;
+let Lambda[5,5]:= 
+229
+;
+let Lambda[5,6]:= 
+219
+;
+let Lambda[5,7]:= 
+224
+;
+let Lambda[5,8]:= 
+225
+;
+let Lambda[5,9]:= 
+202
+;
+let Lambda[5,10]:= 
+196
+;
+let Lambda[5,11]:= 
+203
+;
+let Lambda[5,12]:= 
+212
+;
+let Lambda[5,13]:= 
+204
+;
+let Lambda[5,14]:= 
+208
+;
+let Lambda[5,15]:= 
+210
+;
+let Lambda[5,16]:= 
+212
+;
+let Lambda[5,17]:= 
+214
+;
+let Lambda[5,18]:= 
+213
+;
+let Lambda[5,19]:= 
+208
+;
+let Lambda[5,20]:= 
+208
+;
+let Lambda[5,21]:= 
+224
+;
+let Lambda[5,22]:= 
+225
+;
+let Lambda[5,23]:= 
+225
+;
+let Lambda[5,24]:= 
+211
+;
+let Lambda[5,25]:= 
+216
+;
+let Lambda[5,26]:= 
+231
+;
+let Lambda[5,27]:= 
+270
+;
+let Lambda[5,28]:= 
+271
+;
+let Lambda[5,29]:= 
+257
+;
+let Lambda[5,30]:= 
+250
+;
+let Lambda[5,31]:= 
+240
+;
+let Lambda[5,32]:= 
+244
+;
+let Lambda[5,33]:= 
+303
+;
+let Lambda[5,34]:= 
+301
+;
+let Lambda[5,35]:= 
+303
+;
+let Lambda[5,36]:= 
+284
+;
+let Lambda[5,37]:= 
+282
+;
+let Lambda[5,38]:= 
+293
+;
+let Lambda[5,39]:= 
+306
+;
+let Lambda[5,40]:= 
+298
+;
+let Lambda[5,41]:= 
+291
+;
+let Lambda[5,42]:= 
+298
+;
+let Lambda[5,43]:= 
+304
+;
+let Lambda[5,44]:= 
+306
+;
+let Lambda[5,45]:= 
+324
+;
+let Lambda[5,46]:= 
+327
+;
+let Lambda[5,47]:= 
+324
+;
+let Lambda[5,48]:= 
+314
+;
+let Lambda[5,49]:= 
+304
+;
+let Lambda[5,50]:= 
+320
+;
+let Lambda[5,51]:= 
+360
+;
+let Lambda[5,52]:= 
+342
+;
+let Lambda[5,53]:= 
+344
+;
+let Lambda[5,54]:= 
+335
+;
+let Lambda[5,55]:= 
+340
+;
+let Lambda[5,56]:= 
+352
+;
+let Lambda[5,57]:= 
+346
+;
+let Lambda[5,58]:= 
+324
+;
+let Lambda[5,59]:= 
+327
+;
+let Lambda[5,60]:= 
+328
+;
+let Lambda[5,61]:= 
+347
+;
+let Lambda[5,62]:= 
+342
+;
+let Lambda[5,63]:= 
+426
+;
+let Lambda[5,64]:= 
+422
+;
+let Lambda[5,65]:= 
+410
+;
+let Lambda[5,66]:= 
+431
+;
+let Lambda[5,67]:= 
+418
+;
+let Lambda[5,68]:= 
+422
+;
+let Lambda[5,69]:= 
+432
+;
+let Lambda[5,70]:= 
+445
+;
+let Lambda[5,71]:= 
+442
+;
+let Lambda[5,72]:= 
+445
+;
+let Lambda[5,73]:= 
+439
+;
+let Lambda[5,74]:= 
+439
+;
+let Lambda[5,75]:= 
+430
+;
+let Lambda[5,76]:= 
+428
+;
+let Lambda[5,77]:= 
+454
+;
+let Lambda[5,78]:= 
+454
+;
+let Lambda[5,79]:= 
+433
+;
+let Lambda[5,80]:= 
+450
+;
+let Lambda[5,81]:= 
+424
+;
+let Lambda[5,82]:= 
+427
+;
+let Lambda[5,83]:= 
+412
+;
+let Lambda[5,84]:= 
+421
+;
+let Lambda[5,85]:= 
+415
+;
+let Lambda[5,86]:= 
+413
+;
+let Lambda[5,87]:= 
+457
+;
+let Lambda[5,88]:= 
+472
+;
+let Lambda[5,89]:= 
+460
+;
+let Lambda[5,90]:= 
+464
+;
+let Lambda[5,91]:= 
+452
+;
+let Lambda[5,92]:= 
+453
+;
+let Lambda[5,93]:= 
+450
+;
+let Lambda[5,94]:= 
+445
+;
+let Lambda[5,95]:= 
+447
+;
+let Lambda[5,96]:= 
+454
+;
+let Lambda[5,97]:= 
+440
+;
+let Lambda[5,98]:= 
+454
+;
+let Lambda[5,99]:= 
+459
+;
+let Lambda[5,100]:= 
+452
+;
+let Lambda[5,101]:= 
+442
+;
+let Lambda[5,102]:= 
+454
+;
+let Lambda[5,103]:= 
+443
+;
+let Lambda[5,104]:= 
+438
+;
+let Lambda[5,105]:= 
+431
+;
+let Lambda[5,106]:= 
+439
+;
+let Lambda[5,107]:= 
+433
+;
+let Lambda[5,108]:= 
+429
+;
+let Lambda[5,109]:= 
+422
+;
+let Lambda[5,110]:= 
+424
+;
+let Lambda[5,111]:= 
+370
+;
+let Lambda[5,112]:= 
+362
+;
+let Lambda[5,113]:= 
+385
+;
+let Lambda[5,114]:= 
+377
+;
+let Lambda[5,115]:= 
+383
+;
+let Lambda[5,116]:= 
+365
+;
+let Lambda[5,117]:= 
+343
+;
+let Lambda[5,118]:= 
+350
+;
+let Lambda[5,119]:= 
+329
+;
+let Lambda[5,120]:= 
+352
+;
+let Lambda[5,121]:= 
+336
+;
+let Lambda[5,122]:= 
+342
+;
+let Lambda[5,123]:= 
+264
+;
+let Lambda[5,124]:= 
+253
+;
+let Lambda[5,125]:= 
+269
+;
+let Lambda[5,126]:= 
+272
+;
+let Lambda[5,127]:= 
+265
+;
+let Lambda[5,128]:= 
+246
+;
+let Lambda[5,129]:= 
+229
+;
+let Lambda[5,130]:= 
+241
+;
+let Lambda[5,131]:= 
+245
+;
+let Lambda[5,132]:= 
+231
+;
+let Lambda[5,133]:= 
+224
+;
+let Lambda[5,134]:= 
+230
+;
+let Lambda[5,135]:= 
+219
+;
+let Lambda[5,136]:= 
+221
+;
+let Lambda[5,137]:= 
+212
+;
+let Lambda[5,138]:= 
+219
+;
+let Lambda[5,139]:= 
+227
+;
+let Lambda[5,140]:= 
+226
+;
+let Lambda[5,141]:= 
+236
+;
+let Lambda[5,142]:= 
+256
+;
+let Lambda[5,143]:= 
+246
+;
+let Lambda[5,144]:= 
+236
+;
+let Lambda[5,145]:= 
+240
+;
+let Lambda[5,146]:= 
+224
+;
+let Lambda[5,147]:= 
+198
+;
+let Lambda[5,148]:= 
+201
+;
+let Lambda[5,149]:= 
+216
+;
+let Lambda[5,150]:= 
+219
+;
+let Lambda[5,151]:= 
+218
+;
+let Lambda[6,1]:= 
+212
+;
+let Lambda[6,2]:= 
+180
+;
+let Lambda[6,3]:= 
+191
+;
+let Lambda[6,4]:= 
+186
+;
+let Lambda[6,5]:= 
+181
+;
+let Lambda[6,6]:= 
+179
+;
+let Lambda[6,7]:= 
+191
+;
+let Lambda[6,8]:= 
+180
+;
+let Lambda[6,9]:= 
+198
+;
+let Lambda[6,10]:= 
+186
+;
+let Lambda[6,11]:= 
+187
+;
+let Lambda[6,12]:= 
+179
+;
+let Lambda[6,13]:= 
+180
+;
+let Lambda[6,14]:= 
+180
+;
+let Lambda[6,15]:= 
+171
+;
+let Lambda[6,16]:= 
+176
+;
+let Lambda[6,17]:= 
+190
+;
+let Lambda[6,18]:= 
+196
+;
+let Lambda[6,19]:= 
+190
+;
+let Lambda[6,20]:= 
+218
+;
+let Lambda[6,21]:= 
+217
+;
+let Lambda[6,22]:= 
+202
+;
+let Lambda[6,23]:= 
+206
+;
+let Lambda[6,24]:= 
+185
+;
+let Lambda[6,25]:= 
+215
+;
+let Lambda[6,26]:= 
+252
+;
+let Lambda[6,27]:= 
+238
+;
+let Lambda[6,28]:= 
+244
+;
+let Lambda[6,29]:= 
+248
+;
+let Lambda[6,30]:= 
+260
+;
+let Lambda[6,31]:= 
+258
+;
+let Lambda[6,32]:= 
+282
+;
+let Lambda[6,33]:= 
+290
+;
+let Lambda[6,34]:= 
+297
+;
+let Lambda[6,35]:= 
+286
+;
+let Lambda[6,36]:= 
+278
+;
+let Lambda[6,37]:= 
+292
+;
+let Lambda[6,38]:= 
+278
+;
+let Lambda[6,39]:= 
+281
+;
+let Lambda[6,40]:= 
+271
+;
+let Lambda[6,41]:= 
+271
+;
+let Lambda[6,42]:= 
+269
+;
+let Lambda[6,43]:= 
+276
+;
+let Lambda[6,44]:= 
+290
+;
+let Lambda[6,45]:= 
+290
+;
+let Lambda[6,46]:= 
+285
+;
+let Lambda[6,47]:= 
+289
+;
+let Lambda[6,48]:= 
+285
+;
+let Lambda[6,49]:= 
+287
+;
+let Lambda[6,50]:= 
+329
+;
+let Lambda[6,51]:= 
+337
+;
+let Lambda[6,52]:= 
+328
+;
+let Lambda[6,53]:= 
+335
+;
+let Lambda[6,54]:= 
+326
+;
+let Lambda[6,55]:= 
+318
+;
+let Lambda[6,56]:= 
+347
+;
+let Lambda[6,57]:= 
+368
+;
+let Lambda[6,58]:= 
+360
+;
+let Lambda[6,59]:= 
+348
+;
+let Lambda[6,60]:= 
+346
+;
+let Lambda[6,61]:= 
+348
+;
+let Lambda[6,62]:= 
+393
+;
+let Lambda[6,63]:= 
+368
+;
+let Lambda[6,64]:= 
+386
+;
+let Lambda[6,65]:= 
+400
+;
+let Lambda[6,66]:= 
+392
+;
+let Lambda[6,67]:= 
+383
+;
+let Lambda[6,68]:= 
+422
+;
+let Lambda[6,69]:= 
+412
+;
+let Lambda[6,70]:= 
+411
+;
+let Lambda[6,71]:= 
+414
+;
+let Lambda[6,72]:= 
+412
+;
+let Lambda[6,73]:= 
+413
+;
+let Lambda[6,74]:= 
+386
+;
+let Lambda[6,75]:= 
+389
+;
+let Lambda[6,76]:= 
+382
+;
+let Lambda[6,77]:= 
+386
+;
+let Lambda[6,78]:= 
+387
+;
+let Lambda[6,79]:= 
+393
+;
+let Lambda[6,80]:= 
+428
+;
+let Lambda[6,81]:= 
+416
+;
+let Lambda[6,82]:= 
+408
+;
+let Lambda[6,83]:= 
+418
+;
+let Lambda[6,84]:= 
+399
+;
+let Lambda[6,85]:= 
+418
+;
+let Lambda[6,86]:= 
+379
+;
+let Lambda[6,87]:= 
+393
+;
+let Lambda[6,88]:= 
+380
+;
+let Lambda[6,89]:= 
+387
+;
+let Lambda[6,90]:= 
+388
+;
+let Lambda[6,91]:= 
+389
+;
+let Lambda[6,92]:= 
+436
+;
+let Lambda[6,93]:= 
+442
+;
+let Lambda[6,94]:= 
+449
+;
+let Lambda[6,95]:= 
+426
+;
+let Lambda[6,96]:= 
+434
+;
+let Lambda[6,97]:= 
+434
+;
+let Lambda[6,98]:= 
+417
+;
+let Lambda[6,99]:= 
+410
+;
+let Lambda[6,100]:= 
+406
+;
+let Lambda[6,101]:= 
+419
+;
+let Lambda[6,102]:= 
+409
+;
+let Lambda[6,103]:= 
+423
+;
+let Lambda[6,104]:= 
+377
+;
+let Lambda[6,105]:= 
+370
+;
+let Lambda[6,106]:= 
+375
+;
+let Lambda[6,107]:= 
+362
+;
+let Lambda[6,108]:= 
+372
+;
+let Lambda[6,109]:= 
+362
+;
+let Lambda[6,110]:= 
+313
+;
+let Lambda[6,111]:= 
+313
+;
+let Lambda[6,112]:= 
+322
+;
+let Lambda[6,113]:= 
+321
+;
+let Lambda[6,114]:= 
+320
+;
+let Lambda[6,115]:= 
+317
+;
+let Lambda[6,116]:= 
+262
+;
+let Lambda[6,117]:= 
+261
+;
+let Lambda[6,118]:= 
+270
+;
+let Lambda[6,119]:= 
+272
+;
+let Lambda[6,120]:= 
+279
+;
+let Lambda[6,121]:= 
+266
+;
+let Lambda[6,122]:= 
+246
+;
+let Lambda[6,123]:= 
+254
+;
+let Lambda[6,124]:= 
+253
+;
+let Lambda[6,125]:= 
+251
+;
+let Lambda[6,126]:= 
+252
+;
+let Lambda[6,127]:= 
+253
+;
+let Lambda[6,128]:= 
+240
+;
+let Lambda[6,129]:= 
+244
+;
+let Lambda[6,130]:= 
+243
+;
+let Lambda[6,131]:= 
+234
+;
+let Lambda[6,132]:= 
+246
+;
+let Lambda[6,133]:= 
+233
+;
+let Lambda[6,134]:= 
+219
+;
+let Lambda[6,135]:= 
+242
+;
+let Lambda[6,136]:= 
+234
+;
+let Lambda[6,137]:= 
+242
+;
+let Lambda[6,138]:= 
+226
+;
+let Lambda[6,139]:= 
+233
+;
+let Lambda[6,140]:= 
+221
+;
+let Lambda[6,141]:= 
+205
+;
+let Lambda[6,142]:= 
+207
+;
+let Lambda[6,143]:= 
+198
+;
+let Lambda[6,144]:= 
+212
+;
+let Lambda[6,145]:= 
+215
+;
+let Lambda[6,146]:= 
+196
+;
+let Lambda[6,147]:= 
+182
+;
+let Lambda[6,148]:= 
+182
+;
+let Lambda[6,149]:= 
+184
+;
+let Lambda[6,150]:= 
+189
+;
+let Lambda[6,151]:= 
+190
+;
+let Lambda[7,1]:= 
+187
+;
+let Lambda[7,2]:= 
+178
+;
+let Lambda[7,3]:= 
+188
+;
+let Lambda[7,4]:= 
+193
+;
+let Lambda[7,5]:= 
+213
+;
+let Lambda[7,6]:= 
+197
+;
+let Lambda[7,7]:= 
+184
+;
+let Lambda[7,8]:= 
+194
+;
+let Lambda[7,9]:= 
+184
+;
+let Lambda[7,10]:= 
+192
+;
+let Lambda[7,11]:= 
+178
+;
+let Lambda[7,12]:= 
+186
+;
+let Lambda[7,13]:= 
+218
+;
+let Lambda[7,14]:= 
+211
+;
+let Lambda[7,15]:= 
+203
+;
+let Lambda[7,16]:= 
+202
+;
+let Lambda[7,17]:= 
+213
+;
+let Lambda[7,18]:= 
+213
+;
+let Lambda[7,19]:= 
+228
+;
+let Lambda[7,20]:= 
+229
+;
+let Lambda[7,21]:= 
+229
+;
+let Lambda[7,22]:= 
+234
+;
+let Lambda[7,23]:= 
+244
+;
+let Lambda[7,24]:= 
+258
+;
+let Lambda[7,25]:= 
+284
+;
+let Lambda[7,26]:= 
+272
+;
+let Lambda[7,27]:= 
+278
+;
+let Lambda[7,28]:= 
+267
+;
+let Lambda[7,29]:= 
+264
+;
+let Lambda[7,30]:= 
+296
+;
+let Lambda[7,31]:= 
+309
+;
+let Lambda[7,32]:= 
+294
+;
+let Lambda[7,33]:= 
+291
+;
+let Lambda[7,34]:= 
+292
+;
+let Lambda[7,35]:= 
+290
+;
+let Lambda[7,36]:= 
+299
+;
+let Lambda[7,37]:= 
+292
+;
+let Lambda[7,38]:= 
+284
+;
+let Lambda[7,39]:= 
+305
+;
+let Lambda[7,40]:= 
+293
+;
+let Lambda[7,41]:= 
+307
+;
+let Lambda[7,42]:= 
+308
+;
+let Lambda[7,43]:= 
+300
+;
+let Lambda[7,44]:= 
+308
+;
+let Lambda[7,45]:= 
+316
+;
+let Lambda[7,46]:= 
+294
+;
+let Lambda[7,47]:= 
+296
+;
+let Lambda[7,48]:= 
+310
+;
+let Lambda[7,49]:= 
+352
+;
+let Lambda[7,50]:= 
+352
+;
+let Lambda[7,51]:= 
+344
+;
+let Lambda[7,52]:= 
+343
+;
+let Lambda[7,53]:= 
+345
+;
+let Lambda[7,54]:= 
+342
+;
+let Lambda[7,55]:= 
+382
+;
+let Lambda[7,56]:= 
+374
+;
+let Lambda[7,57]:= 
+373
+;
+let Lambda[7,58]:= 
+375
+;
+let Lambda[7,59]:= 
+377
+;
+let Lambda[7,60]:= 
+391
+;
+let Lambda[7,61]:= 
+394
+;
+let Lambda[7,62]:= 
+399
+;
+let Lambda[7,63]:= 
+397
+;
+let Lambda[7,64]:= 
+416
+;
+let Lambda[7,65]:= 
+393
+;
+let Lambda[7,66]:= 
+408
+;
+let Lambda[7,67]:= 
+441
+;
+let Lambda[7,68]:= 
+442
+;
+let Lambda[7,69]:= 
+434
+;
+let Lambda[7,70]:= 
+441
+;
+let Lambda[7,71]:= 
+452
+;
+let Lambda[7,72]:= 
+444
+;
+let Lambda[7,73]:= 
+424
+;
+let Lambda[7,74]:= 
+413
+;
+let Lambda[7,75]:= 
+422
+;
+let Lambda[7,76]:= 
+430
+;
+let Lambda[7,77]:= 
+419
+;
+let Lambda[7,78]:= 
+413
+;
+let Lambda[7,79]:= 
+416
+;
+let Lambda[7,80]:= 
+428
+;
+let Lambda[7,81]:= 
+434
+;
+let Lambda[7,82]:= 
+423
+;
+let Lambda[7,83]:= 
+420
+;
+let Lambda[7,84]:= 
+429
+;
+let Lambda[7,85]:= 
+420
+;
+let Lambda[7,86]:= 
+437
+;
+let Lambda[7,87]:= 
+449
+;
+let Lambda[7,88]:= 
+472
+;
+let Lambda[7,89]:= 
+450
+;
+let Lambda[7,90]:= 
+431
+;
+let Lambda[7,91]:= 
+406
+;
+let Lambda[7,92]:= 
+402
+;
+let Lambda[7,93]:= 
+411
+;
+let Lambda[7,94]:= 
+412
+;
+let Lambda[7,95]:= 
+413
+;
+let Lambda[7,96]:= 
+409
+;
+let Lambda[7,97]:= 
+385
+;
+let Lambda[7,98]:= 
+394
+;
+let Lambda[7,99]:= 
+385
+;
+let Lambda[7,100]:= 
+385
+;
+let Lambda[7,101]:= 
+383
+;
+let Lambda[7,102]:= 
+388
+;
+let Lambda[7,103]:= 
+342
+;
+let Lambda[7,104]:= 
+351
+;
+let Lambda[7,105]:= 
+325
+;
+let Lambda[7,106]:= 
+323
+;
+let Lambda[7,107]:= 
+321
+;
+let Lambda[7,108]:= 
+338
+;
+let Lambda[7,109]:= 
+263
+;
+let Lambda[7,110]:= 
+262
+;
+let Lambda[7,111]:= 
+271
+;
+let Lambda[7,112]:= 
+260
+;
+let Lambda[7,113]:= 
+255
+;
+let Lambda[7,114]:= 
+270
+;
+let Lambda[7,115]:= 
+267
+;
+let Lambda[7,116]:= 
+278
+;
+let Lambda[7,117]:= 
+277
+;
+let Lambda[7,118]:= 
+279
+;
+let Lambda[7,119]:= 
+268
+;
+let Lambda[7,120]:= 
+259
+;
+let Lambda[7,121]:= 
+258
+;
+let Lambda[7,122]:= 
+262
+;
+let Lambda[7,123]:= 
+248
+;
+let Lambda[7,124]:= 
+264
+;
+let Lambda[7,125]:= 
+248
+;
+let Lambda[7,126]:= 
+267
+;
+let Lambda[7,127]:= 
+231
+;
+let Lambda[7,128]:= 
+234
+;
+let Lambda[7,129]:= 
+242
+;
+let Lambda[7,130]:= 
+227
+;
+let Lambda[7,131]:= 
+230
+;
+let Lambda[7,132]:= 
+237
+;
+let Lambda[7,133]:= 
+230
+;
+let Lambda[7,134]:= 
+248
+;
+let Lambda[7,135]:= 
+243
+;
+let Lambda[7,136]:= 
+233
+;
+let Lambda[7,137]:= 
+231
+;
+let Lambda[7,138]:= 
+237
+;
+let Lambda[7,139]:= 
+199
+;
+let Lambda[7,140]:= 
+201
+;
+let Lambda[7,141]:= 
+186
+;
+let Lambda[7,142]:= 
+194
+;
+let Lambda[7,143]:= 
+177
+;
+let Lambda[7,144]:= 
+180
+;
+let Lambda[7,145]:= 
+168
+;
+let Lambda[7,146]:= 
+165
+;
+let Lambda[7,147]:= 
+176
+;
+let Lambda[7,148]:= 
+166
+;
+let Lambda[7,149]:= 
+162
+;
+let Lambda[7,150]:= 
+172
+;
+let Lambda[7,151]:= 
+176
+;
+let Lambda[8,1]:= 
+156
+;
+let Lambda[8,2]:= 
+157
+;
+let Lambda[8,3]:= 
+164
+;
+let Lambda[8,4]:= 
+172
+;
+let Lambda[8,5]:= 
+157
+;
+let Lambda[8,6]:= 
+198
+;
+let Lambda[8,7]:= 
+219
+;
+let Lambda[8,8]:= 
+213
+;
+let Lambda[8,9]:= 
+222
+;
+let Lambda[8,10]:= 
+196
+;
+let Lambda[8,11]:= 
+213
+;
+let Lambda[8,12]:= 
+238
+;
+let Lambda[8,13]:= 
+241
+;
+let Lambda[8,14]:= 
+230
+;
+let Lambda[8,15]:= 
+242
+;
+let Lambda[8,16]:= 
+220
+;
+let Lambda[8,17]:= 
+233
+;
+let Lambda[8,18]:= 
+271
+;
+let Lambda[8,19]:= 
+259
+;
+let Lambda[8,20]:= 
+266
+;
+let Lambda[8,21]:= 
+264
+;
+let Lambda[8,22]:= 
+267
+;
+let Lambda[8,23]:= 
+254
+;
+let Lambda[8,24]:= 
+272
+;
+let Lambda[8,25]:= 
+282
+;
+let Lambda[8,26]:= 
+284
+;
+let Lambda[8,27]:= 
+288
+;
+let Lambda[8,28]:= 
+286
+;
+let Lambda[8,29]:= 
+302
+;
+let Lambda[8,30]:= 
+323
+;
+let Lambda[8,31]:= 
+331
+;
+let Lambda[8,32]:= 
+330
+;
+let Lambda[8,33]:= 
+327
+;
+let Lambda[8,34]:= 
+325
+;
+let Lambda[8,35]:= 
+325
+;
+let Lambda[8,36]:= 
+399
+;
+let Lambda[8,37]:= 
+397
+;
+let Lambda[8,38]:= 
+394
+;
+let Lambda[8,39]:= 
+396
+;
+let Lambda[8,40]:= 
+404
+;
+let Lambda[8,41]:= 
+382
+;
+let Lambda[8,42]:= 
+408
+;
+let Lambda[8,43]:= 
+419
+;
+let Lambda[8,44]:= 
+400
+;
+let Lambda[8,45]:= 
+418
+;
+let Lambda[8,46]:= 
+414
+;
+let Lambda[8,47]:= 
+423
+;
+let Lambda[8,48]:= 
+454
+;
+let Lambda[8,49]:= 
+460
+;
+let Lambda[8,50]:= 
+460
+;
+let Lambda[8,51]:= 
+460
+;
+let Lambda[8,52]:= 
+470
+;
+let Lambda[8,53]:= 
+469
+;
+let Lambda[8,54]:= 
+470
+;
+let Lambda[8,55]:= 
+467
+;
+let Lambda[8,56]:= 
+464
+;
+let Lambda[8,57]:= 
+463
+;
+let Lambda[8,58]:= 
+470
+;
+let Lambda[8,59]:= 
+461
+;
+let Lambda[8,60]:= 
+480
+;
+let Lambda[8,61]:= 
+454
+;
+let Lambda[8,62]:= 
+456
+;
+let Lambda[8,63]:= 
+469
+;
+let Lambda[8,64]:= 
+459
+;
+let Lambda[8,65]:= 
+459
+;
+let Lambda[8,66]:= 
+475
+;
+let Lambda[8,67]:= 
+496
+;
+let Lambda[8,68]:= 
+485
+;
+let Lambda[8,69]:= 
+484
+;
+let Lambda[8,70]:= 
+472
+;
+let Lambda[8,71]:= 
+476
+;
+let Lambda[8,72]:= 
+503
+;
+let Lambda[8,73]:= 
+501
+;
+let Lambda[8,74]:= 
+500
+;
+let Lambda[8,75]:= 
+513
+;
+let Lambda[8,76]:= 
+503
+;
+let Lambda[8,77]:= 
+507
+;
+let Lambda[8,78]:= 
+515
+;
+let Lambda[8,79]:= 
+521
+;
+let Lambda[8,80]:= 
+508
+;
+let Lambda[8,81]:= 
+508
+;
+let Lambda[8,82]:= 
+500
+;
+let Lambda[8,83]:= 
+499
+;
+let Lambda[8,84]:= 
+509
+;
+let Lambda[8,85]:= 
+494
+;
+let Lambda[8,86]:= 
+505
+;
+let Lambda[8,87]:= 
+496
+;
+let Lambda[8,88]:= 
+509
+;
+let Lambda[8,89]:= 
+498
+;
+let Lambda[8,90]:= 
+408
+;
+let Lambda[8,91]:= 
+410
+;
+let Lambda[8,92]:= 
+415
+;
+let Lambda[8,93]:= 
+420
+;
+let Lambda[8,94]:= 
+439
+;
+let Lambda[8,95]:= 
+421
+;
+let Lambda[8,96]:= 
+363
+;
+let Lambda[8,97]:= 
+346
+;
+let Lambda[8,98]:= 
+357
+;
+let Lambda[8,99]:= 
+353
+;
+let Lambda[8,100]:= 
+360
+;
+let Lambda[8,101]:= 
+373
+;
+let Lambda[8,102]:= 
+307
+;
+let Lambda[8,103]:= 
+300
+;
+let Lambda[8,104]:= 
+289
+;
+let Lambda[8,105]:= 
+303
+;
+let Lambda[8,106]:= 
+286
+;
+let Lambda[8,107]:= 
+300
+;
+let Lambda[8,108]:= 
+269
+;
+let Lambda[8,109]:= 
+274
+;
+let Lambda[8,110]:= 
+269
+;
+let Lambda[8,111]:= 
+272
+;
+let Lambda[8,112]:= 
+274
+;
+let Lambda[8,113]:= 
+274
+;
+let Lambda[8,114]:= 
+291
+;
+let Lambda[8,115]:= 
+304
+;
+let Lambda[8,116]:= 
+289
+;
+let Lambda[8,117]:= 
+292
+;
+let Lambda[8,118]:= 
+277
+;
+let Lambda[8,119]:= 
+276
+;
+let Lambda[8,120]:= 
+268
+;
+let Lambda[8,121]:= 
+273
+;
+let Lambda[8,122]:= 
+264
+;
+let Lambda[8,123]:= 
+264
+;
+let Lambda[8,124]:= 
+274
+;
+let Lambda[8,125]:= 
+276
+;
+let Lambda[8,126]:= 
+246
+;
+let Lambda[8,127]:= 
+250
+;
+let Lambda[8,128]:= 
+244
+;
+let Lambda[8,129]:= 
+242
+;
+let Lambda[8,130]:= 
+249
+;
+let Lambda[8,131]:= 
+239
+;
+let Lambda[8,132]:= 
+200
+;
+let Lambda[8,133]:= 
+213
+;
+let Lambda[8,134]:= 
+218
+;
+let Lambda[8,135]:= 
+227
+;
+let Lambda[8,136]:= 
+238
+;
+let Lambda[8,137]:= 
+211
+;
+let Lambda[8,138]:= 
+222
+;
+let Lambda[8,139]:= 
+221
+;
+let Lambda[8,140]:= 
+223
+;
+let Lambda[8,141]:= 
+232
+;
+let Lambda[8,142]:= 
+220
+;
+let Lambda[8,143]:= 
+219
+;
+let Lambda[8,144]:= 
+232
+;
+let Lambda[8,145]:= 
+228
+;
+let Lambda[8,146]:= 
+240
+;
+let Lambda[8,147]:= 
+240
+;
+let Lambda[8,148]:= 
+244
+;
+let Lambda[8,149]:= 
+234
+;
+let Lambda[8,150]:= 
+285
+;
+let Lambda[8,151]:= 
+296
+;
+let Lambda[9,1]:= 
+280
+;
+let Lambda[9,2]:= 
+272
+;
+let Lambda[9,3]:= 
+286
+;
+let Lambda[9,4]:= 
+274
+;
+let Lambda[9,5]:= 
+311
+;
+let Lambda[9,6]:= 
+306
+;
+let Lambda[9,7]:= 
+305
+;
+let Lambda[9,8]:= 
+303
+;
+let Lambda[9,9]:= 
+303
+;
+let Lambda[9,10]:= 
+306
+;
+let Lambda[9,11]:= 
+345
+;
+let Lambda[9,12]:= 
+342
+;
+let Lambda[9,13]:= 
+352
+;
+let Lambda[9,14]:= 
+350
+;
+let Lambda[9,15]:= 
+339
+;
+let Lambda[9,16]:= 
+339
+;
+let Lambda[9,17]:= 
+343
+;
+let Lambda[9,18]:= 
+353
+;
+let Lambda[9,19]:= 
+342
+;
+let Lambda[9,20]:= 
+336
+;
+let Lambda[9,21]:= 
+341
+;
+let Lambda[9,22]:= 
+340
+;
+let Lambda[9,23]:= 
+370
+;
+let Lambda[9,24]:= 
+354
+;
+let Lambda[9,25]:= 
+372
+;
+let Lambda[9,26]:= 
+371
+;
+let Lambda[9,27]:= 
+369
+;
+let Lambda[9,28]:= 
+355
+;
+let Lambda[9,29]:= 
+401
+;
+let Lambda[9,30]:= 
+400
+;
+let Lambda[9,31]:= 
+405
+;
+let Lambda[9,32]:= 
+408
+;
+let Lambda[9,33]:= 
+412
+;
+let Lambda[9,34]:= 
+393
+;
+let Lambda[9,35]:= 
+456
+;
+let Lambda[9,36]:= 
+452
+;
+let Lambda[9,37]:= 
+460
+;
+let Lambda[9,38]:= 
+459
+;
+let Lambda[9,39]:= 
+454
+;
+let Lambda[9,40]:= 
+457
+;
+let Lambda[9,41]:= 
+425
+;
+let Lambda[9,42]:= 
+421
+;
+let Lambda[9,43]:= 
+428
+;
+let Lambda[9,44]:= 
+418
+;
+let Lambda[9,45]:= 
+413
+;
+let Lambda[9,46]:= 
+414
+;
+let Lambda[9,47]:= 
+496
+;
+let Lambda[9,48]:= 
+493
+;
+let Lambda[9,49]:= 
+494
+;
+let Lambda[9,50]:= 
+491
+;
+let Lambda[9,51]:= 
+493
+;
+let Lambda[9,52]:= 
+482
+;
+let Lambda[9,53]:= 
+496
+;
+let Lambda[9,54]:= 
+514
+;
+let Lambda[9,55]:= 
+496
+;
+let Lambda[9,56]:= 
+499
+;
+let Lambda[9,57]:= 
+511
+;
+let Lambda[9,58]:= 
+495
+;
+let Lambda[9,59]:= 
+472
+;
+let Lambda[9,60]:= 
+464
+;
+let Lambda[9,61]:= 
+470
+;
+let Lambda[9,62]:= 
+474
+;
+let Lambda[9,63]:= 
+472
+;
+let Lambda[9,64]:= 
+469
+;
+let Lambda[9,65]:= 
+480
+;
+let Lambda[9,66]:= 
+477
+;
+let Lambda[9,67]:= 
+483
+;
+let Lambda[9,68]:= 
+477
+;
+let Lambda[9,69]:= 
+484
+;
+let Lambda[9,70]:= 
+464
+;
+let Lambda[9,71]:= 
+494
+;
+let Lambda[9,72]:= 
+475
+;
+let Lambda[9,73]:= 
+500
+;
+let Lambda[9,74]:= 
+488
+;
+let Lambda[9,75]:= 
+503
+;
+let Lambda[9,76]:= 
+490
+;
+let Lambda[9,77]:= 
+505
+;
+let Lambda[9,78]:= 
+502
+;
+let Lambda[9,79]:= 
+504
+;
+let Lambda[9,80]:= 
+498
+;
+let Lambda[9,81]:= 
+496
+;
+let Lambda[9,82]:= 
+507
+;
+let Lambda[9,83]:= 
+430
+;
+let Lambda[9,84]:= 
+424
+;
+let Lambda[9,85]:= 
+408
+;
+let Lambda[9,86]:= 
+414
+;
+let Lambda[9,87]:= 
+417
+;
+let Lambda[9,88]:= 
+422
+;
+let Lambda[9,89]:= 
+371
+;
+let Lambda[9,90]:= 
+373
+;
+let Lambda[9,91]:= 
+366
+;
+let Lambda[9,92]:= 
+364
+;
+let Lambda[9,93]:= 
+353
+;
+let Lambda[9,94]:= 
+366
+;
+let Lambda[9,95]:= 
+330
+;
+let Lambda[9,96]:= 
+326
+;
+let Lambda[9,97]:= 
+331
+;
+let Lambda[9,98]:= 
+341
+;
+let Lambda[9,99]:= 
+321
+;
+let Lambda[9,100]:= 
+328
+;
+let Lambda[9,101]:= 
+272
+;
+let Lambda[9,102]:= 
+262
+;
+let Lambda[9,103]:= 
+269
+;
+let Lambda[9,104]:= 
+267
+;
+let Lambda[9,105]:= 
+268
+;
+let Lambda[9,106]:= 
+253
+;
+let Lambda[9,107]:= 
+278
+;
+let Lambda[9,108]:= 
+266
+;
+let Lambda[9,109]:= 
+266
+;
+let Lambda[9,110]:= 
+278
+;
+let Lambda[9,111]:= 
+277
+;
+let Lambda[9,112]:= 
+289
+;
+let Lambda[9,113]:= 
+250
+;
+let Lambda[9,114]:= 
+242
+;
+let Lambda[9,115]:= 
+238
+;
+let Lambda[9,116]:= 
+248
+;
+let Lambda[9,117]:= 
+250
+;
+let Lambda[9,118]:= 
+227
+;
+let Lambda[9,119]:= 
+246
+;
+let Lambda[9,120]:= 
+221
+;
+let Lambda[9,121]:= 
+231
+;
+let Lambda[9,122]:= 
+233
+;
+let Lambda[9,123]:= 
+238
+;
+let Lambda[9,124]:= 
+230
+;
+let Lambda[9,125]:= 
+199
+;
+let Lambda[9,126]:= 
+208
+;
+let Lambda[9,127]:= 
+221
+;
+let Lambda[9,128]:= 
+213
+;
+let Lambda[9,129]:= 
+205
+;
+let Lambda[9,130]:= 
+215
+;
+let Lambda[9,131]:= 
+209
+;
+let Lambda[9,132]:= 
+209
+;
+let Lambda[9,133]:= 
+208
+;
+let Lambda[9,134]:= 
+200
+;
+let Lambda[9,135]:= 
+210
+;
+let Lambda[9,136]:= 
+190
+;
+let Lambda[9,137]:= 
+236
+;
+let Lambda[9,138]:= 
+246
+;
+let Lambda[9,139]:= 
+237
+;
+let Lambda[9,140]:= 
+234
+;
+let Lambda[9,141]:= 
+220
+;
+let Lambda[9,142]:= 
+240
+;
+let Lambda[9,143]:= 
+277
+;
+let Lambda[9,144]:= 
+264
+;
+let Lambda[9,145]:= 
+255
+;
+let Lambda[9,146]:= 
+265
+;
+let Lambda[9,147]:= 
+272
+;
+let Lambda[9,148]:= 
+276
+;
+let Lambda[9,149]:= 
+329
+;
+let Lambda[9,150]:= 
+327
+;
+let Lambda[9,151]:= 
+321
+;
+let Lambda[10,1]:= 
+316
+;
+let Lambda[10,2]:= 
+320
+;
+let Lambda[10,3]:= 
+308
+;
+let Lambda[10,4]:= 
+309
+;
+let Lambda[10,5]:= 
+325
+;
+let Lambda[10,6]:= 
+317
+;
+let Lambda[10,7]:= 
+326
+;
+let Lambda[10,8]:= 
+328
+;
+let Lambda[10,9]:= 
+314
+;
+let Lambda[10,10]:= 
+342
+;
+let Lambda[10,11]:= 
+339
+;
+let Lambda[10,12]:= 
+328
+;
+let Lambda[10,13]:= 
+332
+;
+let Lambda[10,14]:= 
+345
+;
+let Lambda[10,15]:= 
+324
+;
+let Lambda[10,16]:= 
+358
+;
+let Lambda[10,17]:= 
+350
+;
+let Lambda[10,18]:= 
+364
+;
+let Lambda[10,19]:= 
+355
+;
+let Lambda[10,20]:= 
+372
+;
+let Lambda[10,21]:= 
+365
+;
+let Lambda[10,22]:= 
+394
+;
+let Lambda[10,23]:= 
+395
+;
+let Lambda[10,24]:= 
+393
+;
+let Lambda[10,25]:= 
+398
+;
+let Lambda[10,26]:= 
+397
+;
+let Lambda[10,27]:= 
+411
+;
+let Lambda[10,28]:= 
+443
+;
+let Lambda[10,29]:= 
+439
+;
+let Lambda[10,30]:= 
+435
+;
+let Lambda[10,31]:= 
+435
+;
+let Lambda[10,32]:= 
+444
+;
+let Lambda[10,33]:= 
+434
+;
+let Lambda[10,34]:= 
+478
+;
+let Lambda[10,35]:= 
+475
+;
+let Lambda[10,36]:= 
+482
+;
+let Lambda[10,37]:= 
+484
+;
+let Lambda[10,38]:= 
+468
+;
+let Lambda[10,39]:= 
+469
+;
+let Lambda[10,40]:= 
+724
+;
+let Lambda[10,41]:= 
+725
+;
+let Lambda[10,42]:= 
+732
+;
+let Lambda[10,43]:= 
+728
+;
+let Lambda[10,44]:= 
+717
+;
+let Lambda[10,45]:= 
+721
+;
+let Lambda[10,46]:= 
+612
+;
+let Lambda[10,47]:= 
+601
+;
+let Lambda[10,48]:= 
+592
+;
+let Lambda[10,49]:= 
+592
+;
+let Lambda[10,50]:= 
+596
+;
+let Lambda[10,51]:= 
+599
+;
+let Lambda[10,52]:= 
+548
+;
+let Lambda[10,53]:= 
+562
+;
+let Lambda[10,54]:= 
+535
+;
+let Lambda[10,55]:= 
+554
+;
+let Lambda[10,56]:= 
+542
+;
+let Lambda[10,57]:= 
+543
+;
+let Lambda[10,58]:= 
+508
+;
+let Lambda[10,59]:= 
+491
+;
+let Lambda[10,60]:= 
+502
+;
+let Lambda[10,61]:= 
+495
+;
+let Lambda[10,62]:= 
+511
+;
+let Lambda[10,63]:= 
+506
+;
+let Lambda[10,64]:= 
+581
+;
+let Lambda[10,65]:= 
+570
+;
+let Lambda[10,66]:= 
+584
+;
+let Lambda[10,67]:= 
+580
+;
+let Lambda[10,68]:= 
+569
+;
+let Lambda[10,69]:= 
+575
+;
+let Lambda[10,70]:= 
+511
+;
+let Lambda[10,71]:= 
+534
+;
+let Lambda[10,72]:= 
+530
+;
+let Lambda[10,73]:= 
+532
+;
+let Lambda[10,74]:= 
+528
+;
+let Lambda[10,75]:= 
+528
+;
+let Lambda[10,76]:= 
+441
+;
+let Lambda[10,77]:= 
+442
+;
+let Lambda[10,78]:= 
+444
+;
+let Lambda[10,79]:= 
+457
+;
+let Lambda[10,80]:= 
+443
+;
+let Lambda[10,81]:= 
+445
+;
+let Lambda[10,82]:= 
+379
+;
+let Lambda[10,83]:= 
+386
+;
+let Lambda[10,84]:= 
+389
+;
+let Lambda[10,85]:= 
+375
+;
+let Lambda[10,86]:= 
+374
+;
+let Lambda[10,87]:= 
+374
+;
+let Lambda[10,88]:= 
+308
+;
+let Lambda[10,89]:= 
+314
+;
+let Lambda[10,90]:= 
+307
+;
+let Lambda[10,91]:= 
+306
+;
+let Lambda[10,92]:= 
+308
+;
+let Lambda[10,93]:= 
+292
+;
+let Lambda[10,94]:= 
+298
+;
+let Lambda[10,95]:= 
+281
+;
+let Lambda[10,96]:= 
+276
+;
+let Lambda[10,97]:= 
+295
+;
+let Lambda[10,98]:= 
+294
+;
+let Lambda[10,99]:= 
+279
+;
+let Lambda[10,100]:= 
+272
+;
+let Lambda[10,101]:= 
+272
+;
+let Lambda[10,102]:= 
+267
+;
+let Lambda[10,103]:= 
+255
+;
+let Lambda[10,104]:= 
+259
+;
+let Lambda[10,105]:= 
+256
+;
+let Lambda[10,106]:= 
+258
+;
+let Lambda[10,107]:= 
+260
+;
+let Lambda[10,108]:= 
+250
+;
+let Lambda[10,109]:= 
+240
+;
+let Lambda[10,110]:= 
+257
+;
+let Lambda[10,111]:= 
+236
+;
+let Lambda[10,112]:= 
+248
+;
+let Lambda[10,113]:= 
+253
+;
+let Lambda[10,114]:= 
+256
+;
+let Lambda[10,115]:= 
+258
+;
+let Lambda[10,116]:= 
+247
+;
+let Lambda[10,117]:= 
+250
+;
+let Lambda[10,118]:= 
+229
+;
+let Lambda[10,119]:= 
+224
+;
+let Lambda[10,120]:= 
+223
+;
+let Lambda[10,121]:= 
+218
+;
+let Lambda[10,122]:= 
+232
+;
+let Lambda[10,123]:= 
+240
+;
+let Lambda[10,124]:= 
+221
+;
+let Lambda[10,125]:= 
+235
+;
+let Lambda[10,126]:= 
+235
+;
+let Lambda[10,127]:= 
+231
+;
+let Lambda[10,128]:= 
+225
+;
+let Lambda[10,129]:= 
+239
+;
+let Lambda[10,130]:= 
+259
+;
+let Lambda[10,131]:= 
+264
+;
+let Lambda[10,132]:= 
+255
+;
+let Lambda[10,133]:= 
+261
+;
+let Lambda[10,134]:= 
+268
+;
+let Lambda[10,135]:= 
+266
+;
+let Lambda[10,136]:= 
+198
+;
+let Lambda[10,137]:= 
+171
+;
+let Lambda[10,138]:= 
+184
+;
+let Lambda[10,139]:= 
+182
+;
+let Lambda[10,140]:= 
+192
+;
+let Lambda[10,141]:= 
+190
+;
+let Lambda[10,142]:= 
+336
+;
+let Lambda[10,143]:= 
+329
+;
+let Lambda[10,144]:= 
+323
+;
+let Lambda[10,145]:= 
+331
+;
+let Lambda[10,146]:= 
+321
+;
+let Lambda[10,147]:= 
+330
+;
+let Lambda[10,148]:= 
+364
+;
+let Lambda[10,149]:= 
+351
+;
+let Lambda[10,150]:= 
+361
+;
+let Lambda[10,151]:= 
+356
+;
