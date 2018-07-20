@@ -1,6 +1,7 @@
+# Authors: Michele Guerriero (michele.guerriero@polimi.it) and Davide Molinari
 
 for {k in K}{
 	for {j in 1..(Tday+Ton+1)}{
-		let Lambda[k,j]:= (j/2) + 1; #fare l'assegnamento manuale dei valori per la prova del modello
+		let Lambda[k,j]:= (j/2) + 1; 
 		}
 	}

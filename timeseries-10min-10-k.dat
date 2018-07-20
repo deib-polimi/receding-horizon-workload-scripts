@@ -1,4 +1,6 @@
 # timeseries-10min
+# Authors: Michele Guerriero (michele.guerriero@polimi.it) and Davide Molinari
+
 let Lambda[1,1]:= 
 340
 ;
